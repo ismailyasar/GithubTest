@@ -2,3 +2,5 @@ ucuncu txt dosyası.
 bunu da git pull işlemleri yaparken kullanıyoruz.
 
 Değişikliklere devam ediyoruz. 
+
+Ucuncu txt kapanış commiti 
