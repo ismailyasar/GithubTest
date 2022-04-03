@@ -1,0 +1,2 @@
+ucuncu txt dosyası.
+bunu da git pull işlemleri yaparken kullanıyoruz
